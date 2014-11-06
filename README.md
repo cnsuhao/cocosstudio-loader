@@ -1,4 +1,4 @@
-Cocosstudio-reader
+cocos studio loader
 ==================
 
-Reader for cocos studio
+Loader for cocos studio
